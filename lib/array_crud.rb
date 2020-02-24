@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  colores = [blanco,negro,cafe,perla]
+  array.new([blanco,negro,cafe,perla])
 end
 
 def add_element_to_end_of_array(array, element)
